@@ -14,4 +14,4 @@ I did not use any files to complete this.
 
 ## How to Run Program:  
 
-# Additional Information:  
+## Additional Information:  
